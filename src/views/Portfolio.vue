@@ -88,7 +88,7 @@ export default {
   },
   mounted() {
     axios
-      .get("https://api.jsonbin.io/b/6104f962c875da06087348a4")
+      .get("https://api.jsonbin.io/b/6104f962c875da06087348a4/1")
       .then(response => {
         console.log(response.data);
         this.portfolio = response.data.portfolio;
