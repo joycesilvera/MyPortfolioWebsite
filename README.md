@@ -1,6 +1,6 @@
-# abhattacharyea.dev
+# joyce-silvera.com
 
-This is the source code for [My personal website](https://abhattacharyea.dev). This project uses Vue JS and Tailwind CSS.
+This is the source code for [My personal website](https://www.joyce-silvera.com). This project uses Vue JS and Tailwind CSS.
 
 ## Project setup
 ```
